@@ -7,6 +7,31 @@
     
 </p>
 
-<p align="center">
+<div align="center">
+   
+# Hi! Welcome to Hack as a Service (HaaS)  👋
+
+</div>   
+   
+### 🗃️ About: 
+
 Hack as a Service (or HaaS) is Hack Club's own PaaS (Platform as a Service): A scalable, simple, and inexpensive way for Hack Clubbers to host backend services (including web apps, games, Slack bots, and more). 
-</p>
+
+#### :octocat: Here's a list of our main repositories, containing the code that powers the project:
+
+- [Frontend](https://github.com/hack-as-a-service/frontend) 
+- [Backend & API](https://github.com/hack-as-a-service/api)
+- [CLI](https://github.com/hack-as-a-service/cli)
+- [Documentation](https://github.com/hack-as-a-service/docs)
+
+### 🛠️ Contribution:
+Contributions to the project are welcome! So if you want to help with it, check out the following information:
+
+### 🍱 License:
+
+Hack as a Service is Open-Source through the [AGPL-3.0 License](https://github.com/hack-as-a-service/.github/blob/main/LICENSE).
+
+### 💻 So, what is Hack Club? 
+Hack Club is a global, nonprofit network of high school makers & student-led coding clubs!
+
+<a href="https://hackclub.com/"><img style="position: absolute; top: 0; left: 10px; border: 0; width: 256px; z-index: 999;" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>
