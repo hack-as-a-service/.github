@@ -24,6 +24,8 @@ Hack as a Service (or HaaS) is Hack Club's own PaaS (Platform as a Service): A s
 - [CLI](https://github.com/hack-as-a-service/cli)
 - [Documentation](https://github.com/hack-as-a-service/docs)
 
+Hack as a Service is powered by a few core services that handle different responsibilties. The CLI and GitHub bot are written in Go, and our other backend services are currently undergoing a rewrite in Rust. Our documentation site uses mdBook with a custom theme to match the design of the frontend. The frontend uses Next.js, along with Chakra UI and a slightly modified version of @hackclub/theme.
+
 ### 🛠️ Contribution:
 Contributions to the project are welcome! So if you want to help with it, check out the following information:
 
